@@ -46,7 +46,7 @@ highlight:
 
 # Category & Tag
 default_category: JavaScript
-category_map: JavaScript, Tech Trends
+category_map: JavaScript, Tech Trends, AI
 tag_map: ES2015, JavaScript, Tech Trends
 
 # Date / Time format

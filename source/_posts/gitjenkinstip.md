@@ -23,7 +23,7 @@ Host {ServerName}
 
 ```bash
 $git clone ssh://git@server:[port]/url 
-````
+```
 
 ### 2. git 연결 주소 설정
 참고로, 퍼블릭키와 프라이빗 키는 이미 잘 설정되어 있을 거라는 전제하에 얘기한다.
